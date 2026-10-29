@@ -1,0 +1,1 @@
+const VOUCHER = {"iter":600000,"salt":"gToMVcZ2GzFouzBnuOdAow==","iv":"shvnCzRu/Bi9lxFE","ct":"jcbVVH8SIqD1ntB37Gxr2E/7+ZkEUCp/ufh5DA2gSwzKeCOGFQaSb5AhR7ZV/TsVEpGrR93sEgUMvqu7lwmc9uKwHsuwnxjZcE2RN8k43VU/"};
